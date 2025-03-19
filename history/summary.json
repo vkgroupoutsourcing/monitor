@@ -4,18 +4,20 @@
     "url": "https://vkgroup.ga-espana.es",
     "icon": "https://icons.duckduckgo.com/ip3/vkgroup.ga-espana.es.ico",
     "slug": "ga-espana",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 735,
+    "timeDay": 735,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   },
   {
     "name": "gacatalunya",
