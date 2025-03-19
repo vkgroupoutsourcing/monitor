@@ -1,34 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vkgroupoutsourcing # Your GitHub organization or username, where this repository lives
+repo: monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: ga-espana
+    url: https://vkgroup.ga-espana.es
+  - name: gacatalunya
+    url: https://vkgroup.gacatalunya.es
+  - name: vk-andalucia
+    url: https://vkgroup.vk-andalucia.es
+  - name: vk-aragon
+    url: https://vkgroup.vk-aragon.es
+  - name: vk-castillalamancha
+    url: https://vkgroup.vk-castillalamancha.es
+  - name: vk-catalunya
+    url: https://vkgroup.vk-catalunya.es
+  - name: vkmproyectos
+    url: https://vkgroup.vkmproyectos.es
+  - name: vk-islasbaleares
+    url: https://vkgroup.vk-islasbaleares.es
+  - name: vk-islascanarias
+    url: https://vkgroup.vk-islascanarias.es
+  - name: vk-madrid
+    url: https://vkgroup.vk-madrid.es
+  - name: vk-murcia
+    url: https://vkgroup.vk-murcia.es
+  - name: vk-nacional
+    url: https://vkgroup.vk-nacional.es
+  - name: vk-valencia
+    url: https://vkgroup.vk-valencia.es
+  - name: vklcatalunya
+    url: https://vkgroup.vklcatalunya.es
+  - name: vklmadrid
+    url: https://vkgroup.vklmadrid.es
+  - name: vkmcatalunya
+    url: https://vkgroup.vkmcatalunya.es
+  - name: vkmmadrid
+    url: https://vkgroup.vkmmadrid.es
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: demo.upptime.js.org
+  baseUrl: /monitor
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: VK Group Outsourcing Monitor
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
