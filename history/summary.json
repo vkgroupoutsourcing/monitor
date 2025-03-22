@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vkgroup.vkmproyectos.es.ico",
     "slug": "vkmproyectos",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "90.95%",
+    "uptimeDay": "66.94%",
+    "uptimeWeek": "90.95%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "90.95%",
     "time": 628,
     "timeDay": 660,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2025-03-22": 2
+      "2025-03-22": 476
     }
   },
   {
@@ -240,9 +240,9 @@
     "url": "https://vkgroup.vklcatalunya.es",
     "icon": "https://icons.duckduckgo.com/ip3/vkgroup.vklcatalunya.es.ico",
     "slug": "vklcatalunya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,7 +251,9 @@
     "timeWeek": 563,
     "timeMonth": 563,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-22": 0
+    }
   },
   {
     "name": "vklmadrid",
